@@ -1,0 +1,21 @@
+# Compilados
+target/
+build/
+*.class
+*.jar
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Base de datos local
+*.db
+*.mv.db
